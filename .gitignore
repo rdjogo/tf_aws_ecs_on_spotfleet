@@ -1,0 +1,4 @@
+# Created by .ignore support plugin (hsz.mobi)
+.gitignore
+.idea/
+tf_aws_ecs_on_spotfleet.iml
